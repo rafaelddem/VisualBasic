@@ -42,6 +42,12 @@ Namespace Model.Entities
             Return diferenca
         End Function
 
+        Public Function ApresentaFuncionario() As String
+            Dim retorno As String = ""
+            retorno = nome + " (" + cargo.nome + ")"
+            Return retorno
+        End Function
+
     End Class
 
 End Namespace

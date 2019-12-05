@@ -35,9 +35,26 @@ Public Class Form1
         carreira1.cargos.Add(cargo9)
 
         'Funcionario
-        Dim funcionario1 As New Funcionario(1, "Rafael", New Date(2010, 12, 3), cargo3)
-        Dim teste = funcionario1.salario
-        MsgBox(teste.ToString)
+        Dim desenvolvedor1 As New Funcionario(1, "Jorge Adamastor", New Date(2010, 12, 3), cargo1)
+        Dim desenvolvedor2 As New Funcionario(1, "Adailton Silva", New Date(2010, 12, 3), cargo3)
+        Dim desenvolvedor3 As New Funcionario(1, "Carina Nobre", New Date(2010, 12, 3), cargo3)
+        Dim desenvolvedor4 As New Funcionario(1, "Anthonio Guedes", New Date(2010, 12, 3), cargo5)
+
+        Dim liderDesenvolvimento As New Funcionario(1, "Joesley de Jesus", New Date(2010, 12, 3), cargo6)
+
+        Dim analista As New Funcionario(1, "Ana Rosa", New Date(2010, 12, 3), cargo8)
+        Dim dba As New Funcionario(1, "Juliana Alves", New Date(2010, 12, 3), cargo9)
+
+        Dim equipe As New Equipe(1, "Equipe de desenvolvimento")
+        equipe.lider = liderDesenvolvimento
+        equipe.colaboradores.Add(desenvolvedor1)
+        equipe.colaboradores.Add(desenvolvedor2)
+        equipe.colaboradores.Add(desenvolvedor3)
+        equipe.colaboradores.Add(desenvolvedor4)
+        equipe.colaboradores.Add(analista)
+        equipe.colaboradores.Add(dba)
+
+        MsgBox(equipe.ApresentaEquipe)
 
     End Sub
 End Class
