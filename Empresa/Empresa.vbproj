@@ -125,8 +125,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controler\" />
-    <Folder Include="Model\Repository\" />
-    <Folder Include="Model\Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

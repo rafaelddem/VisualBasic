@@ -9,3 +9,14 @@ C:\Users\Rafael\source\repos\Empresa\Empresa\obj\Debug\Empresa.vbproj.GenerateRe
 C:\Users\Rafael\source\repos\Empresa\Empresa\obj\Debug\Empresa.exe
 C:\Users\Rafael\source\repos\Empresa\Empresa\obj\Debug\Empresa.xml
 C:\Users\Rafael\source\repos\Empresa\Empresa\obj\Debug\Empresa.pdb
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\bin\Debug\Empresa.exe
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\bin\Debug\Empresa.pdb
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\bin\Debug\Empresa.xml
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.vbprojAssemblyReference.cache
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.Form1.resources
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.Resources.resources
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.vbproj.GenerateResource.cache
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.exe
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.xml
+C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.pdb
