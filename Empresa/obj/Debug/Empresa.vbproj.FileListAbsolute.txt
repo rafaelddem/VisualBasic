@@ -13,7 +13,6 @@ C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\bin\Debug\Empresa.exe.con
 C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\bin\Debug\Empresa.exe
 C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\bin\Debug\Empresa.pdb
 C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\bin\Debug\Empresa.xml
-C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.vbprojAssemblyReference.cache
 C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.Form1.resources
 C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.Resources.resources
 C:\Users\Rafael\source\VisualBasic\VisualBasic\Empresa\obj\Debug\Empresa.vbproj.GenerateResource.cache

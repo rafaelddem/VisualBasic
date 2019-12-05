@@ -23,7 +23,7 @@ Namespace Model.Entities
                 mensagem += "Líder da equipe: " + lider.ApresentaFuncionario + vbCrLf
             End If
 
-            If colaboradores Is Nothing Then
+            If colaboradores.Count < 1 Then
                 mensagem += "Equipe ainda não definida" + vbCrLf
             Else
                 mensagem += "Equipe:" + vbCrLf
