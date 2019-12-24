@@ -35,9 +35,9 @@ Public Class Form1
         carreira1.cargos.Add(cargo9)
 
         'Funcionario
-        Dim desenvolvedor1 As New Funcionario(1, "Jorge Adamastor", New Date(2010, 12, 3), cargo1)
-        Dim desenvolvedor2 As New Funcionario(1, "Adailton Silva", New Date(2010, 12, 3), cargo3)
-        Dim desenvolvedor3 As New Funcionario(1, "Carina Nobre", New Date(2010, 12, 3), cargo3)
+        Dim desenvolvedor1 As New Funcionario(1, "Jorge Adamastor", New Date(2019, 10, 7), cargo1)
+        Dim desenvolvedor2 As New Funcionario(1, "Adailton Silva", New Date(2015, 5, 11), cargo3)
+        Dim desenvolvedor3 As New Funcionario(1, "Carina Nobre", New Date(2016, 7, 11), cargo3)
         Dim desenvolvedor4 As New Funcionario(1, "Anthonio Guedes", New Date(2010, 12, 3), cargo5)
 
         Dim liderDesenvolvimento As New Funcionario(1, "Joesley de Jesus", New Date(2010, 12, 3), cargo6)
